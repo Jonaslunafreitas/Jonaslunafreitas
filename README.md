@@ -1,4 +1,5 @@
-## Oiii! Eu sou o Jonas Luna
+### Olá 👋! Eu sou Jonas Luna De Freitas  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+- 🌱 Estou estudando react js,css e html.
  <div>
   <a href="https://github.com/Jonaslunafreitas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jonaslunafreitas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
