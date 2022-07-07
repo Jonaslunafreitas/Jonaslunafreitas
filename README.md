@@ -26,6 +26,6 @@
    
    - 🏆GitHub Trophies
 
-  ![](https://github-profile-trophy.vercel.app/?username=Ansh-Rathod&theme=nord&no-frame=true&no-bg=false&margin-w=4)
+  ![](https://github-profile-trophy.vercel.app/?username=Jonaslunafreitas&theme=nord&no-frame=true&no-bg=false&margin-w=4)
    
 </div>
