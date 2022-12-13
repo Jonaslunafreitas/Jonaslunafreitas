@@ -5,7 +5,6 @@
 
 
 <h2 align="center"> SOBRE </h2>
-<img align="right" src="https://static.significados.com.br/foto/ff54-cor-roxa_sm.jpg" width="313px" height="313px" alt="about me">
 <ul align="left">
     <li>Apaixonado por tecnologia buscando conhecimento</li><br>
     <li>🚀 Em processo para conquistar minha primeira vaga, sempre buscando conhecimento para poder avançar e me destacar no mercado de trabalho e assim alcançar minha tão sonhada primeira vaga como dev front-end 🚀</li><br>
