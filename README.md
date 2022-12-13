@@ -11,7 +11,6 @@
  <li>💻 Estudo na Faculdade <a href="https://www.unasp.br" target="_blank"> Unasp </a> 💻</li><br>
     <li>Meu objetivo é me tornar desenvolvedor Fullstack </li><br>
 </ul>
-<br><br><br>
   </div>
  
  <h2 align="center"> ATIVIDADE </h2>
