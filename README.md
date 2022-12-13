@@ -1,31 +1,115 @@
-### Olá 👋! Eu sou Jonas Luna De Freitas 
-- 🌱 Estou estudando react js,css e html.
+<img align="left" width="100%" alt="about" src="https://uploaddeimagens.com.br/images/004/257/889/full/Jonas.png?1670894555"/>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+
+
+
+<h2 align="center"> SOBRE </h2>
+<img align="right" src="https://static.significados.com.br/foto/ff54-cor-roxa_sm.jpg" width="313px" height="313px" alt="about me">
+<ul align="left">
+    <li>Apaixonado por tecnologia buscando conhecimento</li><br>
+    <li>🚀 Em processo para conquistar minha primeira vaga, sempre buscando conhecimento para poder avançar e me destacar no mercado de trabalho e assim alcançar minha tão sonhada primeira vaga como dev front-end 🚀</li><br>
+ <li>💻 Estudo na Faculdade <a href="https://www.unasp.br" target="_blank"> Unasp </a> 💻</li><br>
+    <li>Meu objetivo é me tornar desenvolvedor Fullstack </li><br>
+</ul>
+<br><br><br>
+  </div>
+ 
+ <h2 align="center"> ATIVIDADE </h2>
  <div>
-  <a href="https://github.com/Jonaslunafreitas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jonaslunafreitas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonaslunafreitas&layout=compact&langs_count=7&theme=dark"/>
+  <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=Jonaslunafreitas&theme=tokyo-night&hide_border=true">
+<br><br>
+<img align="left" height="415px" width="290px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonaslunafreitas&langs_count=8&theme=tokyonight&hide_border=true">
+<div align="right">
+<img height="203px" src="https://github-readme-stats.vercel.app/api?username=Jonaslunafreitas&show_icons=true&custom_title=Jonas%20Github%20Stats&theme=tokyonight&hide_border=true">
+<img height="203px" src="https://github-readme-streak-stats.herokuapp.com/?user=Jonaslunafreitas&theme=tokyonight&hide_border=true">
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="jonas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="jonas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="jonas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-
-  
-  ##
- 
-<div> 
-  <a href="mailto:jonasluna.cont@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jonas-luna-0024a01a2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/Jonaslunafreitas/Jonaslunafreitas/blob/output/github-contribution-grid-snake.svg) 
-    
-   
-   
-   - 🏆GitHub Trophies
-
-  ![](https://github-profile-trophy.vercel.app/?username=Jonaslunafreitas&theme=nord&no-frame=true&no-bg=false&margin-w=4)
-   
-</div>
+<div>
+<h2 align="center">Tecnologias</h2>
+<table align="center" >
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=typescript" width="65px" alt="typescript icon"/><br>
+      <sub>
+        <b>
+          <pre>typescript</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html" width="65px" alt="HTML5 icon"/><br>
+      <sub>
+        <b>
+          <pre>HTML</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=css" width="65px" alt="CSS3 icon"/><br>
+      <sub>
+        <b>
+          <pre>&ensp;CSS&ensp;</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=javascript" width="65px" alt="Javascript icon"/><br>
+      <sub>
+        <b>
+          <pre>JavaScript</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react" width="65px" alt="ReactJS icon"/><br>
+      <sub>
+        <b>
+          <pre>React</pre>
+        </b>
+      </sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=flutter" width="65px" alt="flutter icon"/><br>
+      <sub>
+        <b>
+          <pre>Flutter</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center" width="100px;">
+      <img src="https://skillicons.dev/icons?i=github" width="65px" alt="GitHub icon"/><br>
+      <sub>
+        <b>
+          <pre>&emsp;GitHub&emsp;</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center" width="100px;">
+      <img src="https://skillicons.dev/icons?i=git" width="65px" alt="Git icon"/><br>
+      <sub>
+        <b>
+          <pre>&emsp;Git&emsp;</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=dart" width="65px" alt="Dart icon"/><br>
+      <sub>
+        <b>
+          <pre>Dart</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=sass" width="65px" alt="Markdown icon"/><br>
+      <sub>
+        <b>
+          <pre>Sass</pre>
+        </b>
+      </sub>
+    </td>
+  </tr>
+ </div>
