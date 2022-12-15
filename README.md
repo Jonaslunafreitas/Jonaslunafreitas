@@ -1,4 +1,4 @@
-<img align="left" width="100%" alt="about" src="https://uploaddeimagens.com.br/images/004/257/889/full/Jonas.png?1670894555"/>
+<img align="left" width="100%" alt="about" src="https://uploaddeimagens.com.br/images/004/261/258/original/Jonas_%281%29.png?1671089124"/>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 
