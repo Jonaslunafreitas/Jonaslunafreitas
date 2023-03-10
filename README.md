@@ -7,7 +7,7 @@
 <h2 align="center"> SOBRE </h2>
 <ul align="left">
     <li>Apaixonado por tecnologia buscando conhecimento</li><br>
-    <li>🚀 Em processo para conquistar minha primeira vaga, sempre buscando conhecimento para poder avançar e me destacar no mercado de trabalho e assim alcançar minha tão sonhada primeira vaga como dev front-end 🚀</li><br>
+    <li>🚀 Trabalho ultimamente na <a href="https://www.leoo.com.br/">Leoo</a>🚀</li><br>
  <li>💻 Estudo na Faculdade <a href="https://www.unasp.br" target="_blank"> Unasp </a> 💻</li><br>
     <li>Meu objetivo é me tornar desenvolvedor Fullstack </li><br>
 </ul>
